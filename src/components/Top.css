@@ -1,0 +1,29 @@
+#top{
+	position:relative;
+	margin:20px auto;
+	width:1140px;
+	height:192px;
+	}
+
+#top ul{
+	width:11500px;
+	height:192px;
+	}
+	
+#top ul li{
+	float:left;
+	width:371px;
+	height:192px;
+	margin-right:10px;
+	text-align:center;
+	}
+	
+#top ul li img{
+	border-radius:100%;
+    height:100px;
+    width:100px;
+	}
+	
+#top ul li h1{
+	font-family: 'Kaushan Script', cursive;
+	}

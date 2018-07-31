@@ -1,0 +1,76 @@
+#pelbod{
+    position:relative;
+    margin:auto;
+    width:1140px;
+    height:936px;
+    background:grey
+}
+
+#infpel{
+    position:absolute;
+    left:20px;
+    top:20px;
+    width:850px;
+    height:900px;
+    background:darkgray;
+}
+
+#infpel h1{
+    font-family: "Kaushan Script", cursive;
+    font-size:40px;
+    margin:20px;
+}
+
+#infpel p img{
+    float:left;
+    margin-right:20px;
+}
+
+#infpel p{
+    margin:5px 20px;
+    font-size:14px;
+    text-align:justify;
+}
+
+#formcalif{
+    position:absolute;
+    right:20px;
+    top:100px;
+    width:200px;
+    height:300px;
+    background:darkgray;
+}
+
+#formcalif h3{
+    width:200px;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    background:darkgray;
+    color:white;
+    margin-bottom:5px;
+}
+
+#formcalif input{
+    padding:10px;
+    margin:5px 25px;
+    width:150px;
+    border:1;
+    
+}
+
+#formcalif input[type="submit"]{
+    margin:5px 50px;
+    width:100px;
+    background:rgba(100,0,100,.5);
+    border:0;
+}
+
+#trailer{
+    position:absolute;
+    left:75px;
+    top:455px;
+    width:750px;
+    height:453px;
+    /* background:darkgray; */
+}

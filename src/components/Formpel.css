@@ -1,0 +1,32 @@
+#section{
+    position:relative;
+    margin:auto;
+    width:600px;
+    height:800px;
+    /* background:grey */
+}
+
+#section h1{
+    width:600px;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    background:gray;
+    color:white;
+    margin-bottom:5px;
+}
+
+#section input{
+    padding:10px;
+    margin:5px 50px;
+    width:500px;
+    border:1;
+    
+}
+
+#section input[type="submit"]{
+    margin:50px 150px;
+    width:300px;
+    background:rgba(100,0,100,.5);
+    border:0;
+}
